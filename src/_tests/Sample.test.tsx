@@ -1,7 +1,7 @@
 /// <reference types="jest" />
-import React from 'react'
-import Home from 'pages/index'
+import React from 'react';
+import Home from 'pages/index';
 
 it('Home ページコンポーネントが存在している', () => {
-  expect(Home).toBeTruthy()
-})
+  expect(Home).toBeTruthy();
+});
